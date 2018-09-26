@@ -1,2 +1,2 @@
-# stu
-siberian transport university teacher static web page
+# stu @ roganof.ru
+siberian transport university teacher calendar static web page
